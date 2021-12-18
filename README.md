@@ -6,6 +6,12 @@
 
 YU-TA-9
 
+## Image
+
+![capture1](https://raw.githubusercontent.com/YU-TA-9/speech-to-text-demo-frontend/capture/capture1.png)
+![capture2](https://raw.githubusercontent.com/YU-TA-9/speech-to-text-demo-frontend/capture/capture2.png)
+![capture3](https://raw.githubusercontent.com/YU-TA-9/speech-to-text-demo-frontend/capture/capture3.png)
+
 ## Main Libraries
 
 - React 17.0.2
