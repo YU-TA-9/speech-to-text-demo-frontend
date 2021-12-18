@@ -1,0 +1,4 @@
+{
+  "/api/demo/transcribe": "/transcribe",
+  "/api/demo/search": "/search"
+}
